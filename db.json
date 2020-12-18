@@ -1,0 +1,41 @@
+{
+  "Course": [
+    {
+      "id": "ENSF608",
+      "courseName": "Software Architecture 2",
+      "teachingAssistant": "Victor Kruhm",
+      "endDate": "07-12-2016"
+    },
+    {
+      "id": "ENSF607",
+      "courseName": "Software Architecture 1",
+      "teachingAssistant": "Ronald Wesley",
+      "endDate": "12-19-2015"
+    },
+    {
+      "id": "ENSF611",
+      "courseName": "Machine Learning",
+      "teachingAssistant": "Bellatrix Lestrange",
+      "endDate": "07-23-2020"
+    },
+    {
+      "id": "ENSF612",
+      "courseName": "Big Data Analysis",
+      "teachingAssistant": "Tom Riddle",
+      "endDate": "08-12-2020"
+    },
+    {
+      "id": "ENSF619",
+      "courseName": "Special Topics",
+      "teachingAssistant": "Rubius Hagrid",
+      "endDate": "10-01-2020"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "Name": "Elric Laporte ",
+      "email": "elricLaporte@ucalgary.ca"
+    }
+  ]
+}
